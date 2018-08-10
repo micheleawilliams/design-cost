@@ -17,6 +17,10 @@
   </url>
   
   <url>
+    <loc>https://github.com/pearson-ux/cupper/</loc>
+  </url>
+  
+  <url>
     <loc>https://github.com/pearson-ux/cupper/tags/example-tag/</loc>
     <priority>0</priority>
   </url>
@@ -28,10 +32,6 @@
   <url>
     <loc>https://github.com/pearson-ux/cupper/patterns/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/pearson-ux/cupper/</loc>
   </url>
   
   <url>
